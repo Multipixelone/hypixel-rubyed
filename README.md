@@ -1,5 +1,5 @@
-# hypixel-rubyed [![Build Status](https://travis-ci.org/PenguinOwl/hypixel-rubyed.svg?branch=master)](https://travis-ci.org/PenguinOwl/hypixel-rubyed)
-A barebones API wrapper for the Hypixel Public API.
+# hypixel-rubyed [![Build Status](https://travis-ci.org/Multipixelone/hypixel-rubyed.svg?branch=master)](https://travis-ci.org/PenguinOwl/hypixel-rubyed)
+A barebones API wrapper for the Hypixel Public API. Multipixelone Fork
 # Getting started
 Im not a big fan of sifting through documentation, so lets get to the point.
 ```code:ruby
